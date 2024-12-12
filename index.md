@@ -2,13 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I'm an Engineering Manager passionate about the intersection of technology, data, and leadership. With a decade of experience building and scaling data solutions, I now focus on empowering teams to innovate and deliver impactful results. I believe in fostering collaborative environments where continuous learning and technical excellence are paramount.
 
 # Header 1
 
